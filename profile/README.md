@@ -37,3 +37,6 @@ or an issue or whatever :)
 - TRY CATCH ❎
 - Sprig Package Manager ✅ [find it here](http://github.com/gonerogueproductions/Sprig)
 - FTP deployment ✅
+
+
+## A subsidiary of [GoneRogue](http://github.com/gonerogueproductions)
