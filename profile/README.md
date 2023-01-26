@@ -17,7 +17,7 @@
 Bison or Flex or whatever
 - Interpreted for the time being, not compiled cos I don't know enough assembly
 - Latest executable is at SRC/rsmy.exe
-- You can compile for MacOS if you like
+- Available for winNT, *nix systems in general and MacOS X
 - Provide a command line argument to execute a file, else a shell will boot
 - Also strings don't need speech marks, 
 Rosemary does that for you
