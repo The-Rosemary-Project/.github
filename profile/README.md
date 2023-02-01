@@ -3,4 +3,4 @@
 - Making programming easier
 - A simple, fuss-free process
 - Taking the {} of C and the simplicity of Python
-![IMG_2698](https://user-images.githubusercontent.com/116349156/215499452-15b0e67c-b234-40ad-9cf0-081c6d8fa1c5.JPG)
+![image](https://user-images.githubusercontent.com/116349156/216062086-0a31683b-374c-45e9-938d-8ceed52aea2b.png)
