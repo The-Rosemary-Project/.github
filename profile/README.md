@@ -1,4 +1,4 @@
-## TheRosemaryProject
+## TheRosemaryProject now at [@spartanproj](https://github.com/spartanproj/Rosemary)
 #### Software for all
 - Making programming easier
 - A simple, fuss-free process
